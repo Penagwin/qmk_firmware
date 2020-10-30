@@ -1,4 +1,5 @@
 #pragma once
+#include "audio.h"
 
 #ifdef AUDIO_ENABLE
     #define STARTUP_SONG SONG(PREONIC_SOUND)
